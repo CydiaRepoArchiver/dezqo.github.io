@@ -1,12 +1,11 @@
 Package: com.domiosdev.flatastic
 Version: 0.0.1-1
 Architecture: iphoneos-arm
-Maintainer: domiosdev<dominic.wenger@gmail.com>
+Maintainer: domiosdev <dominic.wenger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.domiosdev.flatastic_0.0.1-1_iphoneos-arm.deb
-Size: 60794
-MD5sum: 0fab1dcc9a11e9594b7cfa5a39218119
+Size: 60192
+MD5sum: e2bafaa6a053a8fa074cc1b6a76cdbb6
 Section: Themes (SpringBoard)
 Description: A new approach to a flat Homescreen.
-Tag: role::hacker
 
