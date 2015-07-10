@@ -1,0 +1,11 @@
+~ Useful Information ~
+
+// Remove .DS_Store files
+find . -name '*.DS_Store' -type f -delete
+
+// Useful HomeScreen Resolutions
+com.example.id (57x57)
+com.example.id@2x (120x120)
+com.example.id@3x (180x180)
+com.example.id@2x~ipad (152x152)
+com.example.id~ipad (76x76)
