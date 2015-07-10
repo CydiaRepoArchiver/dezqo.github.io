@@ -5,18 +5,18 @@ Maintainer: domiosdev <dominic.wenger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.domiosdev.flatastic_0.0.2-7_iphoneos-arm.deb
 Size: 58578
-MD5sum: a51f2d836af2083e415524b28f55e168
+MD5sum: 4addcf8dc969590615ff39400dcdeabb
 Section: Themes (SpringBoard)
 Description: A new approach to a flat Homescreen.
 
 Package: com.domiosdev.sharingan
-Version: 1.0-2
+Version: 1.2-3
 Architecture: iphoneos-arm
 Maintainer: domiosdev <dominic.wenger@gmail.com>
 Depends: com.evilgoldfish.lockglyph
-Filename: ./debs//com.domiosdev.sharingan_1.0-2_iphoneos-arm.deb
-Size: 1058330
-MD5sum: 7a54640643848b0f35c1294b23417242
+Filename: ./debs//com.domiosdev.sharingan_1.2-3_iphoneos-arm.deb
+Size: 1058328
+MD5sum: cfbf8ba623232dcc355d22daa77b84c6
 Section: Themes (LockScreen)
 Description: A simple Sharingan Lockglyph Theme.
 
