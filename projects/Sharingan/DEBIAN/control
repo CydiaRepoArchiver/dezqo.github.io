@@ -1,7 +1,7 @@
 Package: com.domiosdev.sharingan
-Name: Sharingan Lockglyph Theme
+Name: Sharingan Lockglyph Collection
 Depends: com.evilgoldfish.lockglyph
-Version: 0.0.1-1
+Version: 1.0-2
 Architecture: iphoneos-arm
 Description: A simple Sharingan Lockglyph Theme.
 Maintainer: domiosdev <dominic.wenger@gmail.com>
