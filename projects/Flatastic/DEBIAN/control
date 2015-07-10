@@ -4,6 +4,6 @@ Depends: winterboard
 Version: 0.0.1-1
 Architecture: iphoneos-arm
 Description: A new approach to a flat Homescreen.
-Maintainer: Dominic Wenger <dominic.wenger@gmail.com>
-Author: Dominic (domiosdev) Wenger <dominic.wenger@gmail.com>
+Maintainer: domiosdev <dominic.wenger@gmail.com>
+Author: domiosdev <dominic.wenger@gmail.com>
 Section: Themes (SpringBoard)
