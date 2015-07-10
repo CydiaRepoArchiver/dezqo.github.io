@@ -9,3 +9,12 @@ com.example.id@2x (120x120)
 com.example.id@3x (180x180)
 com.example.id@2x~ipad (152x152)
 com.example.id~ipad (76x76)
+
+// Theme File-paths
+BootLogos: /Library/BootLogos/[NameOfBootlogo]/
+Cydia apps: /Applications/[NameOfApplication].app/
+Ringtones: /Library/Ringtones/
+Wallpapers: /Library/Wallpaper/iPhone/
+Winterboard themes: /Library/Themes/[NameOfTheme].theme/
+Zeppelin logos: /Library/Zeppelin/[NameOfZeppelin]/
+LockGlyph Themes: /Library/Application Support/LockGlyph/Themes/[NameOfTheme].bundle/
