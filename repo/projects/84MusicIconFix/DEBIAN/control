@@ -1,0 +1,9 @@
+Package: com.domiosdev.84musiciconfix
+Name: 84MusicIconFix
+Depends: winterboard
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Description: Fixes for the new music icon.
+Maintainer: domiosdev <dominic.wenger@gmail.com>
+Author: domiosdev <dominic.wenger@gmail.com>
+Section: Themes (SpringBoard)
