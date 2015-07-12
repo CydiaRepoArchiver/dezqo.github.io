@@ -1,0 +1,45 @@
+Package: com.domiosdev.84musiciconfix
+Version: 0.0.2-2
+Architecture: iphoneos-arm
+Maintainer: domiosdev <dominic.wenger@gmail.com>
+Depends: winterboard
+Filename: ./debs//com.domiosdev.84musiciconfix_0.0.2-2_iphoneos-arm.deb
+Size: 55848
+MD5sum: 52f1aae555e6c5f64dca6d3c6aa887cc
+SHA1: 52a5af21808f2d2c27799b2a7356e762c78f6b3d
+SHA256: 1e74aa68dc217ad24b276d70321114c5d69b1f7c12a944fe20def18248d45208
+Section: Themes (SpringBoard)
+Description: Fixes for the new music icon.
+Author: domiosdev <dominic.wenger@gmail.com>
+Name: 84MusicIconFix
+
+Package: com.domiosdev.flatastic
+Version: 0.0.2-8
+Architecture: iphoneos-arm
+Maintainer: domiosdev <dominic.wenger@gmail.com>
+Depends: winterboard
+Filename: ./debs//com.domiosdev.flatastic_0.0.2-8_iphoneos-arm.deb
+Size: 58454
+MD5sum: b4f6cac247c0fdee65bcd7553b209dd1
+SHA1: 5f6e603c73b8a0c31fde9f2a2b9c646c7a9374bb
+SHA256: b58ccc2310cffb148b006193efb379ece34fd472948f5966261ed0b59b186332
+Section: Themes (SpringBoard)
+Description: A new approach to a flat Homescreen.
+Author: domiosdev <dominic.wenger@gmail.com>
+Name: Flatastic Beta
+
+Package: com.domiosdev.sharingan
+Version: 2.4-11
+Architecture: iphoneos-arm
+Maintainer: domiosdev <dominic.wenger@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.domiosdev.sharingan_2.4-11_iphoneos-arm.deb
+Size: 5142732
+MD5sum: 7a679e50b1e91f29cfc00cd1415305d6
+SHA1: ffb4476682b27a791c97ff62ce7b44c3a53de367
+SHA256: bb1083496f4a99f729a5964fc4a61bc0049e305b8d995a23cbfbcff3421abdcc
+Section: Themes (LockScreen)
+Description: A simple Sharingan Lockglyph Theme.
+Author: domiosdev <dominic.wenger@gmail.com>
+Name: Sharingan Lockglyph Collection Beta
+
