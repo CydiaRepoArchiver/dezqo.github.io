@@ -1,9 +1,0 @@
-Package: com.domiosdev.flatastic
-Name: Flatastic Beta
-Depends: winterboard
-Version: 0.0.2-8
-Architecture: iphoneos-arm
-Description: A new approach to a flat Homescreen.
-Maintainer: domiosdev <dominic.wenger@gmail.com>
-Author: domiosdev <dominic.wenger@gmail.com>
-Section: Themes (SpringBoard)
