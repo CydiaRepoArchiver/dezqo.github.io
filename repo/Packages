@@ -5,13 +5,28 @@ Maintainer: domiosdev <dominic.wenger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.domiosdev.84musiciconfix_0.0.2-2_iphoneos-arm.deb
 Size: 55848
-MD5sum: 52f1aae555e6c5f64dca6d3c6aa887cc
-SHA1: 52a5af21808f2d2c27799b2a7356e762c78f6b3d
-SHA256: 1e74aa68dc217ad24b276d70321114c5d69b1f7c12a944fe20def18248d45208
+MD5sum: 0f10ae174a59c252ff9a97f4d45e6711
+SHA1: 93b0c7bda1820abef4089bfec78fad10c4f3d28a
+SHA256: 116a25d166f5cd9667ec656821805d698579c4f2072c95a520dcebe05b6ad967
 Section: Themes (SpringBoard)
 Description: Fixes for the new music icon.
 Author: domiosdev <dominic.wenger@gmail.com>
 Name: 84MusicIconFix
+
+Package: com.domiosdev.dragonball
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: domiosdev <dominic.wenger@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.domiosdev.dragonball_0.0.1-1_iphoneos-arm.deb
+Size: 464942
+MD5sum: 99f8ae20649c144c68a49c54fdc214da
+SHA1: 6b8a25009480f74e13a9b14ed9267e7936cdcc84
+SHA256: c4c353b04fac2c80ff496e51e8db321dfa36195d9ec2601429ddcdb4a102f973
+Section: Themes (LockScreen)
+Description: A simple Dragon Ball Lockglyph Theme.
+Author: domiosdev <dominic.wenger@gmail.com>
+Name: Dragon Ball Lockglyph Collection
 
 Package: com.domiosdev.flatastic
 Version: 0.0.2-8
@@ -20,9 +35,9 @@ Maintainer: domiosdev <dominic.wenger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.domiosdev.flatastic_0.0.2-8_iphoneos-arm.deb
 Size: 58454
-MD5sum: b4f6cac247c0fdee65bcd7553b209dd1
-SHA1: 5f6e603c73b8a0c31fde9f2a2b9c646c7a9374bb
-SHA256: b58ccc2310cffb148b006193efb379ece34fd472948f5966261ed0b59b186332
+MD5sum: c33009e47ccae1785cba26f2abe88e13
+SHA1: 3d72f00a337b536f521af72e0cbec210d519b33a
+SHA256: db2874ea951855b8573eaf47d25e55f56d999b1787353b8204fcf10070e4df3b
 Section: Themes (SpringBoard)
 Description: A new approach to a flat Homescreen.
 Author: domiosdev <dominic.wenger@gmail.com>
@@ -35,9 +50,9 @@ Maintainer: domiosdev <dominic.wenger@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: ./debs//com.domiosdev.sharingan_2.4-11_iphoneos-arm.deb
 Size: 5142732
-MD5sum: 7a679e50b1e91f29cfc00cd1415305d6
-SHA1: ffb4476682b27a791c97ff62ce7b44c3a53de367
-SHA256: bb1083496f4a99f729a5964fc4a61bc0049e305b8d995a23cbfbcff3421abdcc
+MD5sum: 3b96c7f8d3dc2be52c5e80850a0ba87c
+SHA1: 4c5a346f5ac876db340f0e85e67ef85a089570e4
+SHA256: a1a5b05c9456ac84794fa740faf45269b18ea37aca884aa8baf379e67c20ee19
 Section: Themes (LockScreen)
 Description: A simple Sharingan Lockglyph Theme.
 Author: domiosdev <dominic.wenger@gmail.com>
