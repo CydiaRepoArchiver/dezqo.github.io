@@ -5,9 +5,9 @@ Maintainer: domiosdev <dominic.wenger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.domiosdev.84musiciconfix_0.0.2-2_iphoneos-arm.deb
 Size: 55848
-MD5sum: 0f10ae174a59c252ff9a97f4d45e6711
-SHA1: 93b0c7bda1820abef4089bfec78fad10c4f3d28a
-SHA256: 116a25d166f5cd9667ec656821805d698579c4f2072c95a520dcebe05b6ad967
+MD5sum: a621d76531779b052defe850114dfb45
+SHA1: 20efd1d14bd874a62aeb6324d96e360b69a10862
+SHA256: 91830dd5eef5ad47fa34e9aba6126f9d8653cc9b81075b36fea0bdf11637a5f3
 Section: Themes (SpringBoard)
 Description: Fixes for the new music icon.
 Author: domiosdev <dominic.wenger@gmail.com>
@@ -19,10 +19,10 @@ Architecture: iphoneos-arm
 Maintainer: domiosdev <dominic.wenger@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: ./debs//com.domiosdev.dragonball_0.0.1-1_iphoneos-arm.deb
-Size: 464942
-MD5sum: 99f8ae20649c144c68a49c54fdc214da
-SHA1: 6b8a25009480f74e13a9b14ed9267e7936cdcc84
-SHA256: c4c353b04fac2c80ff496e51e8db321dfa36195d9ec2601429ddcdb4a102f973
+Size: 464520
+MD5sum: 773d74214ed10914f8df0fc3db09c069
+SHA1: ae6049c76e32a129ad25b318ed04dc8eddcb23d4
+SHA256: 1feba1b65fee6f5a060a6d07e2ec7a2c6664b66b1ca40e68cfa894a0cd7c01e1
 Section: Themes (LockScreen)
 Description: A simple Dragon Ball Lockglyph Theme.
 Author: domiosdev <dominic.wenger@gmail.com>
@@ -35,13 +35,28 @@ Maintainer: domiosdev <dominic.wenger@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.domiosdev.flatastic_0.0.2-8_iphoneos-arm.deb
 Size: 58454
-MD5sum: c33009e47ccae1785cba26f2abe88e13
-SHA1: 3d72f00a337b536f521af72e0cbec210d519b33a
-SHA256: db2874ea951855b8573eaf47d25e55f56d999b1787353b8204fcf10070e4df3b
+MD5sum: 82cbff68c28d0d01f2bfb8dfd6e27884
+SHA1: 4dc1828180eb7a789eff6498c8748d00c0943b05
+SHA256: 74009b061edfcb800a1d193650b1b01e37b55b768f101daa1d45d928e6419077
 Section: Themes (SpringBoard)
 Description: A new approach to a flat Homescreen.
 Author: domiosdev <dominic.wenger@gmail.com>
 Name: Flatastic Beta
+
+Package: com.domiosdev.onepiece
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: domiosdev <dominic.wenger@gmail.com>
+Depends: com.evilgoldfish.lockglyph
+Filename: ./debs//com.domiosdev.onepiece_0.0.1-1_iphoneos-arm.deb
+Size: 47416
+MD5sum: 7be955170ac641a2aa56d4909df60103
+SHA1: d68d4749972c01d442ac9c7172319bbf8a40a00c
+SHA256: adf55b1d565511ef360fbb8355e4694469403f6bdacfde070a19d7a1cc0dcf12
+Section: Themes (LockScreen)
+Description: A simple One Piece Lockglyph Theme.
+Author: domiosdev <dominic.wenger@gmail.com>
+Name: One Piece Lockglyph Collection
 
 Package: com.domiosdev.sharingan
 Version: 2.4-11
@@ -50,9 +65,9 @@ Maintainer: domiosdev <dominic.wenger@gmail.com>
 Depends: com.evilgoldfish.lockglyph
 Filename: ./debs//com.domiosdev.sharingan_2.4-11_iphoneos-arm.deb
 Size: 5142732
-MD5sum: 3b96c7f8d3dc2be52c5e80850a0ba87c
-SHA1: 4c5a346f5ac876db340f0e85e67ef85a089570e4
-SHA256: a1a5b05c9456ac84794fa740faf45269b18ea37aca884aa8baf379e67c20ee19
+MD5sum: d7a2305798c4d0da6b7bc829943cbe9f
+SHA1: 12872a386ebc1be76bb6063fd99b51ea5e985066
+SHA256: 1a340f84910f9a972ec004da26112a53ce71942d5cd8d9382eeb51565e6eb6f6
 Section: Themes (LockScreen)
 Description: A simple Sharingan Lockglyph Theme.
 Author: domiosdev <dominic.wenger@gmail.com>
