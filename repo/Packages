@@ -88,3 +88,18 @@ Description: A simple Sharingan Lockglyph Theme.
 Author: domiosdev <dominic.wenger@gmail.com>
 Name: Sharingan Lockglyph Collection Beta
 
+Package: com.domiosdev.mrrobot
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: domiosdev <dominic.wenger@gmail.com>
+Depends: winterboard
+Filename: ./debs//com.domiosdev.mrrobot_0.0.1-1_iphoneos-arm.deb
+Size: 5798
+MD5sum: 3871eae202f5b0d82de5d007896ef471
+SHA1: 92800350ba0972f87a5a37b8f56a7696e0b79c48
+SHA256: a9525008794101a5275d8b73570c5c34eb9dccc95d03ebddc9c41a5f9df32688
+Section: Themes (SpringBoard)
+Description: Keyboard Sounds from the "Mr. Robot: 1.51exfiltrati0n.ipa" app.
+Author: domiosdev <dominic.wenger@gmail.com>
+Name: Mr. Robot Keyboard Sounds
+
