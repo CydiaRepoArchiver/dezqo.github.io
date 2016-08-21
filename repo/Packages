@@ -93,7 +93,7 @@ Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: domiosdev <dominic.wenger@gmail.com>
 Depends: winterboard
-Filename: ./debs//com.domiosdev.mrrobot_0.0.1-1_iphoneos-arm.deb
+Filename: ./debs//com.domiosdev.mrrobot_0.0.1_iphoneos-arm.deb
 Size: 5798
 MD5sum: 3871eae202f5b0d82de5d007896ef471
 SHA1: 92800350ba0972f87a5a37b8f56a7696e0b79c48
