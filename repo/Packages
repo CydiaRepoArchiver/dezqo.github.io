@@ -89,7 +89,7 @@ Author: domiosdev <dominic.wenger@gmail.com>
 Name: Sharingan Lockglyph Collection Beta
 
 Package: com.dezqo.mrrobot
-Version: 0.0.3
+Version: 0.0.4
 Architecture: iphoneos-arm
 Maintainer: dezqo <dezqobusiness@gmail.com>
 Depends: winterboard
