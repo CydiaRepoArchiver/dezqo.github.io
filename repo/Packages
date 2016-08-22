@@ -1,16 +1,15 @@
 Package: com.dezqo.mrrobot
-Version: 0.0.4
+Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: dezqo <dezqobusiness@gmail.com>
 Depends: winterboard
 Filename: ./debs//com.dezqo.mrrobot.deb
-Size: 5804
-MD5sum: c12e1111be98c0d8b0bab257f99a0350
-SHA1: fb5cc6ca3c353c86b1b2969d5a12dabe1ea979dc
+Size: 5762
+MD5sum: 5d53c54ff29f9eaa0ad963431c902aaa
+SHA1: 146c931f6853cbb20a7e1ea01ba197cdd88d4297
 Section: Themes (Sounds)
 Description: Keyboard Sounds from the "Mr. Robot: 1.51exfiltrati0n.ipa" app.
 Author: dezqo <dezqobusiness@gmail.com>
 Depiction: http://dezqo.github.io/repo/depic/com.dezqo.mrrobot/index.html
-Icon: http://dezqo.github.io/repo/icons/com.dezqo.mrrobot/icon.png
 Name: Mr. Robot Keyboard Sounds
 
