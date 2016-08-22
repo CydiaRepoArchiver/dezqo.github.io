@@ -1,9 +1,0 @@
-Package: com.domiosdev.colouredapplelogo
-Name: Coloured Apple Respring Logo
-Depends: winterboard
-Version: 0.0.1-1
-Architecture: iphoneos-arm
-Description: A Respring Logo requested on reddit.com/r/iosthemes by /u/NiCKTweakz.
-Maintainer: domiosdev <dominic.wenger@gmail.com>
-Author: domiosdev <dominic.wenger@gmail.com>
-Section: Themes (SpringBoard)

@@ -1,9 +1,0 @@
-Package: com.domiosdev.onepiece
-Name: One Piece Lockglyph Collection
-Depends: com.evilgoldfish.lockglyph
-Version: 0.0.1-1
-Architecture: iphoneos-arm
-Description: A simple One Piece Lockglyph Theme.
-Maintainer: domiosdev <dominic.wenger@gmail.com>
-Author: domiosdev <dominic.wenger@gmail.com>
-Section: Themes (LockScreen)
