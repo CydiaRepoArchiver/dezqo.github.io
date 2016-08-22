@@ -100,5 +100,7 @@ SHA1: fb5cc6ca3c353c86b1b2969d5a12dabe1ea979dc
 Section: Themes (Sounds)
 Description: Keyboard Sounds from the "Mr. Robot: 1.51exfiltrati0n.ipa" app.
 Author: dezqo <dezqobusiness@gmail.com>
+Depiction: http://dezqo.github.io/repo/depic/com.dezqo.mrrobot/index.html
+Icon: http://dezqo.github.io/repo/icons/com.dezqo.mrrobot/icon.png
 Name: Mr. Robot Keyboard Sounds
 
