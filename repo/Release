@@ -1,8 +1,12 @@
-Origin: Dezqo's Cydia Repository
+Origin: Dezqo's Repository
 Label: Dezqo's Repo
 Suite: stable
 Version: 0.0.2
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Personal Repo of Dezqo (@dezqodev) - Tweaks, themes and other random stuff.
+Description: 
+Personal Repo of Dezqo!
+Tweaks, themes and other random stuff.
+Twitter: @dezqodev
+Reddit: /u/dezqo
