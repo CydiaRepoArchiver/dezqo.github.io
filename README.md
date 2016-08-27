@@ -1,6 +1,7 @@
 # Dezqo's Cydia Repository
 This is my personal Cydia Repository which I use to host beta packages or themes and some other stuff.
 Feel free to add the repo and install anything you like. Normally, everything is well documented with an in-depth depiction.
+
 Also, it should be noted here that I don't take responsibility if anything goes wrong or you install a package that isn't compatible with your iOS version and device.
 
 ## Installation
