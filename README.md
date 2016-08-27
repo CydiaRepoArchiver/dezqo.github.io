@@ -10,5 +10,5 @@ Add this repo to Cydia [here](dezqo.github.io/repo).
 Once this repo has been added to [Cydia](https://cydia.saurik.com/), it can be found within the 'Sources' section in Cydia.
 
 ## Credits
- Thanks to Travis Grammer for his [Cydia Package Depiction Template](https://codepen.io/travis-g/pen/mywWyq)
+ Thanks to Travis Grammer for his [Cydia Package Depiction Template](https://codepen.io/travis-g/pen/mywWyq).
 
