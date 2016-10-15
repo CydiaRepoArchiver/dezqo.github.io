@@ -5,7 +5,7 @@ Feel free to add the repo and install anything you like. Normally, everything is
 Also, it should be noted here that I don't take responsibility if anything goes wrong or you install a package that isn't compatible with your iOS version and device.
 
 ## Installation
-Add this repo to Cydia [here](dezqo.github.io/repo).
+Add this repo to Cydia [here](http://dezqo.github.io/repo).
 
 ## Usage
 Once this repo has been added to [Cydia](https://cydia.saurik.com/), it can be found within the 'Sources' section in Cydia.
