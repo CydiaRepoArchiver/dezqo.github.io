@@ -7,6 +7,12 @@ Also, it should be noted here that I don't take responsibility if anything goes 
 ## Installation
 Add this repo to Cydia [here](http://dezqo.github.io/repo).
 
+#### Cloning this repo
+If you want to make your own repo, you can clone this repo and use it as a template. Don't forget to remove my packages and depictions though!
+You can modify this README file to your own liking but please keep the credits section to honor the work of the people mentioned there!
+
+If you have any questions or just don't know how to get the repo running, take a look at the wiki section. You can also shoot me a message right here on github and I might even answer...
+
 ## Usage
 Once this repo has been added to [Cydia](https://cydia.saurik.com/), it can be found within the 'Sources' section in Cydia.
 
